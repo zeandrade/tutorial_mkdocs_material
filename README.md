@@ -182,6 +182,6 @@ Caso o uso do mkdocs-material não seja uma alternativa viável, é possível ap
 
 - Usando diretamente, visualizando o resultado em tela através de editores como [Mark Text](https://github.com/marktext/marktext)
 - Utilizar outros geradores de sites estáticos como [Jekyll](https://jekyllrb.com/), [Sphinx](https://www.sphinx-doc.org), [Docusaurus](https://docusaurus.io) etc.
-- Hospedar em ferramentas como Github [Exemplo]<https://github.com/zeandrade/tutorial_mkdocs_material>
+- Hospedar em ferramentas como Github [Exemplo](https://github.com/zeandrade/tutorial_mkdocs_material)
 - Adequar e utilizar o conteúdo em wikis
 - Através de outras ferramentas, converter para HTML ou rst
